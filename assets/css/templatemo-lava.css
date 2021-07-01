@@ -200,7 +200,7 @@ button.main-button {
 }
 
 button.main-button:hover {
-  background-color: #f1556a;
+  background-color: #f44e34;
 }
 
 
@@ -213,7 +213,7 @@ button.main-button:hover {
   text-align: center;
   font-size: 42px;
   font-weight: 700;
-  color: #1e1e1e;
+  color: #4b4c4c;
   margin-bottom: 25px;
 }
 
@@ -743,7 +743,9 @@ about
 ---------------------------------------------
 */
 
-#about {
+
+
+#queHacemos {
   padding: 100px 0px;
   position: relative;
   z-index: 9;
@@ -976,8 +978,7 @@ footer
 }
 
 footer {
-  margin-top: 200px;
-  padding-top: 120px;
+  padding-top: 100px;
   background-image: url(../images/footer-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
